@@ -1,7 +1,7 @@
 # Digimon-Generator-GAN
 This repo contains the code that generates Digimon images using the concept of Generative Adversarial Networks
 
-GANs are very hard to train. So, just clone or download the notebook `Generate_new_digimons.ipynb` and run all the cells on an external local GPU or on Cloud to see the better results.
+GANs are very hard to train. So, just clone or download the notebook `Generate_new_digimons.ipynb`, extract the Digimon.zip file and run all the cells on an external local GPU or on Cloud to see the better results.
 
 This code also adds scalars and test images to the tensorboard for better visualization. 
 
