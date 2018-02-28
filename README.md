@@ -10,6 +10,5 @@ This code also adds scalars and test images to the tensorboard for better visual
 ![screenshot from 2018-02-27 17-51-55](https://user-images.githubusercontent.com/11135080/36734852-bb8662ce-1bfa-11e8-8d97-98305614fd0b.png)
 
 ### Tensorboard graph for training a large dataset(1061 images) of digimons:
-This graph is quite big, so I can't cover it in a single screenshot
 
 ![screenshot from 2018-02-27 19-58-22](https://user-images.githubusercontent.com/11135080/36734850-baedeef4-1bfa-11e8-9479-fdfe298cd980.png)
